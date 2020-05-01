@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\LR\bin\Debug\netcoreapp3.0\LR.exe
+C:\Users\User\source\repos\LR\bin\Debug\netcoreapp3.0\LR.deps.json
+C:\Users\User\source\repos\LR\bin\Debug\netcoreapp3.0\LR.runtimeconfig.json
+C:\Users\User\source\repos\LR\bin\Debug\netcoreapp3.0\LR.runtimeconfig.dev.json
+C:\Users\User\source\repos\LR\bin\Debug\netcoreapp3.0\LR.dll
+C:\Users\User\source\repos\LR\bin\Debug\netcoreapp3.0\LR.pdb
+C:\Users\User\source\repos\LR\obj\Debug\netcoreapp3.0\LR.csprojAssemblyReference.cache
+C:\Users\User\source\repos\LR\obj\Debug\netcoreapp3.0\LR.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LR\obj\Debug\netcoreapp3.0\LR.AssemblyInfo.cs
+C:\Users\User\source\repos\LR\obj\Debug\netcoreapp3.0\LR.dll
+C:\Users\User\source\repos\LR\obj\Debug\netcoreapp3.0\LR.pdb
